@@ -4,6 +4,9 @@
 [submodule "libopencm3"]
 	path = vendor/libopencm3
 	url = https://github.com/libopencm3/libopencm3.git
+[submodule "trezor-common"]
+    path = vendor/trezor-common
+    url = https://github.com/CHIPO-Project/trezor-common.git
 [submodule "vendor/nanopb"]
 	path = vendor/nanopb
 	url = https://github.com/nanopb/nanopb.git
