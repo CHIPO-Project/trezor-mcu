@@ -17,6 +17,3 @@
 	path = vendor/QR-Code-generator
 	url = https://github.com/nayuki/QR-Code-generator.git
 	ignore = untracked
-[submodule "vendor/trezor-common"]
-	path = vendor/trezor-common
-	url = https://github.com/CHIPO-Project/trezor-common.git
